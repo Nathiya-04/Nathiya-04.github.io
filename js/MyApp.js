@@ -521,7 +521,7 @@ function goBack()
 }
 function proceedPayment(total)
 {
-	let cardDiv=`<img src="images/visa.webp"><img src="images/mastercard-logo.webp"><img src="images/PayPalCard.png"><img src="images/Discover-Logo.jpg">`
+	let cardDiv=`<img src="images/visa.webp"><img src="images/Mastercard-logo.webp"><img src="images/PayPalCard.png"><img src="images/Discover-Logo.jpg">`
 	cardDiv+=`<H4 style="margin:10px auto auto auto">Amount Payable:₹${total}</H4>`
 	
 	cardDiv+=`<div style="width:auto;margin:auto;"><div style="float:left;margin:10px auto auto auto;"><label>Card Number:</label><input type="text" style="width:50px;text-align:center;" maxlength="4">-<input type="text" style="width:50px;text-align:center;" maxlength="4">-<input type="text" style="width:50px;text-align:center;" maxlength="4">-<input type="text" style="width:50px;text-align:center;" maxlength="4"></div>`
