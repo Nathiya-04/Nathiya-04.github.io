@@ -1,0 +1,280 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"Shirt",
+             "imgSrc":"../images/shirt.jpg",
+             "price":1000
+             },
+             {
+             "product_id":11,
+             "product_name":"T-Shirt",
+             "imgSrc":"../images/tshirt.jpg",
+             "price":600
+             },
+             {
+             "product_id":12,
+             "product_name":"Jean",
+             "imgSrc":"../images/jeans.jpg",
+             "price":1000
+             },
+             {
+             "product_id":13,
+             "product_name":"Jacket",
+             "imgSrc":"../images/jacket.jpg",
+             "price":6000
+             },
+             {
+             "product_id":14,
+             "product_name":"Vesti Shirt",
+             "imgSrc":"../images/vestishirt.jpg",
+             "price":2000
+             },
+             {
+             "product_id":15,
+             "product_name":"Hoodie",
+             "imgSrc":"../images/hoodie.jpg",
+             "price":2500
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":16,
+            "product_name":"Kurti",
+            "imgSrc":"../images/kurti.jpg",
+            "price":1500
+            },
+            {
+            "product_id":17,
+            "product_name":"Salwar",
+            "imgSrc":"../images/salwar.jpg",
+            "price":1999
+            },
+            {
+            "product_id":18,
+            "product_name":"Saree",
+            "imgSrc":"../images/saree.jpg",
+            "price":5000
+            },
+            {
+            "product_id":19,
+            "product_name":"Lehenga",
+            "imgSrc":"../images/lehenga.jpg",
+            "price":10000
+            },
+            {
+            "product_id":20,
+            "product_name":"Peplum Top",
+            "imgSrc":"../images/peplumtop.jpg",
+            "price":599
+            },
+            {
+            "product_id":21,
+            "product_name":"Skirts",
+            "imgSrc":"../images/skirt.jpg",
+            "price":1000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":22,
+             "product_name":"T-Shirt",
+             "imgSrc":"../images/kid tshit.jpg",
+             "price":600
+             },
+             {
+             "product_id":23,
+             "product_name":"Shirt",
+             "imgSrc":"../images/kid shirt.jpg",
+             "price":500
+             },
+             {
+             "product_id":24,
+             "product_name":"Shorts",
+             "imgSrc":"../images/kid shorts.jpg",
+             "price":800
+             },
+             {
+             "product_id":25,
+             "product_name":"Frock",
+             "imgSrc":"../images/kid frock.jpg",
+             "price":3000
+             },
+             {
+             "product_id":26,
+             "product_name":"Hoodie",
+             "imgSrc":"../images/kid hoodies2.jpg",
+             "price":2000
+             },
+             {
+             "product_id":27,
+             "product_name":"track Pant",
+             "imgSrc":"../images/kid trackpants.jpg",
+             "price":600
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":28,
+              "product_name":"Pen",
+              "imgSrc":"../images/pen.jpg",
+              "price":399
+              },
+              {
+              "product_id":29,
+              "product_name":"Color Pencils",
+              "imgSrc":"../images/colorpencil.jpg",
+              "price":250
+              },
+              {
+              "product_id":30,
+              "product_name":"Notes",
+              "imgSrc":"../images/note.jpg",
+              "price":300
+              },
+              {
+              "product_id":31,
+              "product_name":"A4 Sheet",
+              "imgSrc":"../images/A4.jpg",
+              "price":100
+              },
+              {
+              "product_id":32,
+              "product_name":"Sticky Notes Set",
+              "imgSrc":"../images/stickynotes.jpg",
+              "price":399
+              },
+              {
+              "product_id":33,
+              "product_name":"Markers",
+              "imgSrc":"../images/morkers.jpg",
+              "price":500
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":34,
+              "product_name":"Washing Mechine",
+              "imgSrc":"../images/washingmechine2.jpg",
+              "price":30000
+              },
+              {
+              "product_id":35,
+              "product_name":"Fridge",
+              "imgSrc":"../images/fredge.jpg",
+              "price":40000
+              },
+              {
+              "product_id":36,
+              "product_name":"Oven",
+              "imgSrc":"../images/oven.jpg",
+              "price":10000
+              },
+              {
+              "product_id":37,
+              "product_name":"Cooker",
+              "imgSrc":"../images/cooker.webp",
+              "price":2000
+              },
+              {
+              "product_id":38,
+              "product_name":"Mixi",
+              "imgSrc":"../images/mixi.jpg",
+              "price":1500
+              },
+              {
+              "product_id":39,
+              "product_name":"Grinder",
+              "imgSrc":"../images/grinder.jpg",
+              "price":2000
+              }]
+ 
+},
+{
+ "filter_id":6,
+ "products":[{
+              "product_id":40,
+              "product_name":"Sony TV",
+              "imgSrc":"../images/tv.jpg",
+              "price":50000
+              },
+              {
+              "product_id":41,
+              "product_name":"Laptop",
+              "imgSrc":"../images/laptop1.jpg",
+              "price":80000
+              },
+              {
+              "product_id":42,
+              "product_name":"Watch",
+              "imgSrc":"../images/watch.jpg",
+              "price":5000
+              },
+              {
+              "product_id":43,
+              "product_name":"Headphone",
+              "imgSrc":"../images/headphone.jpg",
+              "price":2000
+              },
+              {
+              "product_id":44,
+              "product_name":"iPhone 17 pro",
+              "imgSrc":"../images/iphone17pro.jpg",
+              "price":90000
+              },
+              {
+              "product_id":45,
+              "product_name":"Speaker",
+              "imgSrc":"../images/speaker.jpg",
+              "price":8000
+              }]
+ 
+},
+{
+ "filter_id":7,
+ "products":[{
+              "product_id":46,
+              "product_name":"Lell Me Tell You",
+              "imgSrc":"../images/tell you book.jpg",
+              "price":600
+              },
+              {
+              "product_id":47,
+              "product_name":"The Million Dollar",
+              "imgSrc":"../images/Million book.jpg",
+              "price":1000
+              },
+              {
+              "product_id":48,
+              "product_name":"Crypto Tycoon",
+              "imgSrc":"../images/crypto book.jpg",
+              "price":900
+              },
+              {
+              "product_id":49,
+              "product_name":"Organized Thinking",
+              "imgSrc":"../images/thinking book.jpg",
+              "price":1200
+              },
+              {
+              "product_id":50,
+              "product_name":"King Of King",
+              "imgSrc":"../images/king of king book.jpg",
+              "price":1500
+              },
+              {
+              "product_id":51,
+              "product_name":"Beauty That Bleeds",
+              "imgSrc":"../images/buauty that bleeds book.jpg",
+              "price":800
+              }]
+ 
+}
+
+]
